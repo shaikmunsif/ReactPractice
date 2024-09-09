@@ -6,3 +6,6 @@
 
 03TailwindAndProps -    Created new project using vite, installed and then configured TailWindCss. 
                         Implemented how to pass values to component using props used object destructuring concept.
+
+05passwordGenerator -   This project is about generating password.
+                        Implemented using useEffect, useCallback, useRef, useState.
